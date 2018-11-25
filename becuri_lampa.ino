@@ -32,12 +32,12 @@ int b;
 int o_y = 255;
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "4237217983da48d1b12233e2f2e9050e";
+char auth[] = "blynk token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "hPop";
-char pass[] = "pg1981camsabRAZ";
+char ssid[] = "your wireles network name";
+char pass[] = "your wireles network password";
 bool isFirstConnect = true;
 
 /*WemoManager wemoManager;
